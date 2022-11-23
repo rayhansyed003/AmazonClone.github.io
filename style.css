@@ -168,13 +168,13 @@ body{
 
  .Section-3 {
     background-color: white;
+     margin: 20px; 
+     padding: 20px;
  }
  
  .Section-3 .Section-3-container {
-    margin: 20px; 
     display: flex;
     flex-direction: column;
-    padding: 20px;
     justify-content: flex-start;
  }
 
